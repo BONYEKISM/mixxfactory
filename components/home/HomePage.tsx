@@ -58,7 +58,7 @@ export default function HomePage({ data }: HomePageProps) {
           marginBottom: '3rem',
           color: '#1f2937',
         }}>
-          Trusted by Thousands
+          Trusted by Millions
         </h2>
         <div style={{
           display: 'grid',
