@@ -40,7 +40,7 @@ const testimonials: Testimonial[] = [
   },
   {
     id: 3,
-    name: 'Judy Malobe',
+    name: 'Pauline K',
     role: { en: 'Business Professional', fr: 'Professionnel d\'affaires' },
     image: 'https://res.cloudinary.com/dkd3k6eau/image/upload/v1770601656/judy1_xmwplb.jpg',
     content: {
